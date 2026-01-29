@@ -1,0 +1,10 @@
+{
+	"plugin": {
+		"name": "screensaver",
+		"description": "Multi-mode screensaver",
+		"version": "0.8",
+		"author": "Inigo Montoya",
+		"type": "plugin",
+		"start": "false"
+	}
+}
