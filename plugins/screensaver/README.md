@@ -34,10 +34,7 @@ individually configured from MAME's internal menu.
 
 1.  Copy the plugin folder into:
 
-```{=html}
-<!-- -->
-```
-    mame/plugins/
+    ```mame/plugins/```
 
 so the structure becomes:
 
@@ -52,10 +49,7 @@ so the structure becomes:
 
 2.  Enable plugins in MAME if not already enabled:
 
-```{=html}
-<!-- -->
-```
-    mame -plugins
+    ```mame -plugins```
 
 or set in `mame.ini`:
 
@@ -63,10 +57,7 @@ or set in `mame.ini`:
 
 3.  Enable the plugin from:
 
-```{=html}
-<!-- -->
-```
-    MAME UI → Plugin Options → Screensaver
+    ```MAME UI → Plugin Options → Screensaver```
 
 ------------------------------------------------------------------------
 
